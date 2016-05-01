@@ -17,3 +17,7 @@ write_avg_tidy_dataset:
 
 get_colnames()
 	1. return a vector of more clear names for each column
+
+Direction:
+	1. clean_data()
+	2. write_avg_tidy_dataset(data)
